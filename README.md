@@ -85,14 +85,14 @@
   <!-- Top Languages -->
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-ozcan&layout=compact&theme=radical)
 
-  <!-- Streak Stats -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusuf-ozcan&theme=radical)
+ ![GitHub Streak](https://streak-stats.vercel.app/?user=yusuf-ozcan&theme=radical)
+
 
   <!-- Activity Graph -->
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusuf-ozcan&theme=react-dark&area=true&hide_border=true)
 
-  <!-- GitHub Trophies -->
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=yusuf-ozcan&theme=onedark)
+  <!-- GitHub Summary Card (Trophy Alternative) -->
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusuf-ozcan&theme=radical)
 
   <br/>
 
