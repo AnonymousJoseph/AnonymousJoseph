@@ -72,28 +72,21 @@
 ---
 
 # 📊 GitHub Stats:
-<div align="center">
-
-<!-- GitHub Overview Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=AnonymousJoseph&show_icons=true&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="AnonymousJoseph's GitHub Stats" />
-
-<br/>
-
-<br/>
 
 
-<div align="center">
-  <img alt="GitHub Streak (fallback)" src="https://git-hub-streak-stats.vercel.app?user=AnonymousJoseph&theme=ambient_gradient&hide_border=false" />
-</div>
+<details>
+  <summary>click here</summary>
 
 
-
-<br/>
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousJoseph&layout=compact&theme=ambient_gradient&hide_border=false&langs_count=10" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/yusuf-ozcan">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yusuf-ozcan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-ozcan&theme=radical&layout=compact"/>
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-ozcan&theme=radical"/>
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusuf-ozcan&theme=radical"/>
+  </a>
+</p>
+</details>
 
 
 
